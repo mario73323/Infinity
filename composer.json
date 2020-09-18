@@ -1,0 +1,21 @@
+{
+    "name": "infinity/tienda-online",
+    "description": "tienda para infinity",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mario Ubilla",
+            "email": "marioreyes55@hotmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "infinity\\":"src/"
+        }
+    }
+    
+}
